@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "KtluENIr0W1F5VeJ1z3J5ecyPHUv/gnRcC/CB4HGiOretLxz9GUyk4s1e2/m+xU06m6I6fb+yRmwZBb1OmwNMw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\chourpar\\OneDrive - TietoEVRY\\C\\TimePass\\TimePass.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\chourpar\\.nuget\\packages\\system.json\\4.7.1\\system.json.4.7.1.nupkg.sha512"
+  ],
+  "logs": []
+}

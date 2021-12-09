@@ -1,0 +1,31 @@
+C:\Users\chourpar\source\repos\TimePass\bin\Debug\netcoreapp3.1\TimePass.exe
+C:\Users\chourpar\source\repos\TimePass\bin\Debug\netcoreapp3.1\TimePass.deps.json
+C:\Users\chourpar\source\repos\TimePass\bin\Debug\netcoreapp3.1\TimePass.runtimeconfig.json
+C:\Users\chourpar\source\repos\TimePass\bin\Debug\netcoreapp3.1\TimePass.runtimeconfig.dev.json
+C:\Users\chourpar\source\repos\TimePass\bin\Debug\netcoreapp3.1\TimePass.dll
+C:\Users\chourpar\source\repos\TimePass\bin\Debug\netcoreapp3.1\TimePass.pdb
+C:\Users\chourpar\source\repos\TimePass\obj\Debug\netcoreapp3.1\TimePass.AssemblyInfoInputs.cache
+C:\Users\chourpar\source\repos\TimePass\obj\Debug\netcoreapp3.1\TimePass.AssemblyInfo.cs
+C:\Users\chourpar\source\repos\TimePass\obj\Debug\netcoreapp3.1\TimePass.dll
+C:\Users\chourpar\source\repos\TimePass\obj\Debug\netcoreapp3.1\TimePass.pdb
+C:\Users\chourpar\source\repos\TimePass\obj\Debug\netcoreapp3.1\TimePass.csproj.CoreCompileInputs.cache
+C:\Users\chourpar\source\repos\TimePass\obj\Debug\netcoreapp3.1\TimePass.genruntimeconfig.cache
+C:\Users\chourpar\source\repos\TimePass\obj\Debug\netcoreapp3.1\TimePass.csprojAssemblyReference.cache
+C:\Users\chourpar\source\repos\TimePass\bin\Debug\netcoreapp3.1\System.Json.dll
+C:\Users\chourpar\source\repos\TimePass\obj\Debug\netcoreapp3.1\TimePass.csproj.CopyComplete
+C:\Users\chourpar\OneDrive - TietoEVRY\C\TimePass\obj\Debug\netcoreapp3.1\TimePass.csproj.AssemblyReference.cache
+C:\Users\chourpar\OneDrive - TietoEVRY\C\TimePass\obj\Debug\netcoreapp3.1\TimePass.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chourpar\OneDrive - TietoEVRY\C\TimePass\obj\Debug\netcoreapp3.1\TimePass.AssemblyInfoInputs.cache
+C:\Users\chourpar\OneDrive - TietoEVRY\C\TimePass\obj\Debug\netcoreapp3.1\TimePass.AssemblyInfo.cs
+C:\Users\chourpar\OneDrive - TietoEVRY\C\TimePass\obj\Debug\netcoreapp3.1\TimePass.csproj.CoreCompileInputs.cache
+C:\Users\chourpar\OneDrive - TietoEVRY\C\TimePass\obj\Debug\netcoreapp3.1\TimePass.dll
+C:\Users\chourpar\OneDrive - TietoEVRY\C\TimePass\obj\Debug\netcoreapp3.1\TimePass.pdb
+C:\Users\chourpar\OneDrive - TietoEVRY\C\TimePass\bin\Debug\netcoreapp3.1\TimePass.exe
+C:\Users\chourpar\OneDrive - TietoEVRY\C\TimePass\bin\Debug\netcoreapp3.1\TimePass.deps.json
+C:\Users\chourpar\OneDrive - TietoEVRY\C\TimePass\bin\Debug\netcoreapp3.1\TimePass.runtimeconfig.json
+C:\Users\chourpar\OneDrive - TietoEVRY\C\TimePass\bin\Debug\netcoreapp3.1\TimePass.runtimeconfig.dev.json
+C:\Users\chourpar\OneDrive - TietoEVRY\C\TimePass\bin\Debug\netcoreapp3.1\TimePass.dll
+C:\Users\chourpar\OneDrive - TietoEVRY\C\TimePass\bin\Debug\netcoreapp3.1\TimePass.pdb
+C:\Users\chourpar\OneDrive - TietoEVRY\C\TimePass\bin\Debug\netcoreapp3.1\System.Json.dll
+C:\Users\chourpar\OneDrive - TietoEVRY\C\TimePass\obj\Debug\netcoreapp3.1\TimePass.csproj.CopyComplete
+C:\Users\chourpar\OneDrive - TietoEVRY\C\TimePass\obj\Debug\netcoreapp3.1\TimePass.genruntimeconfig.cache
